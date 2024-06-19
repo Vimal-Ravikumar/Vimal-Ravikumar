@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data analytics project**
 
-- 🌱 I’m currently learning **Data analst**
+- 🌱 I’m currently learning **Data analyst**
 
 - 📫 How to reach me **thevimalravikumar@gmail.com**
 
